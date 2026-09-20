@@ -14,7 +14,6 @@ Dive into the world of GitHub achievements! 🌊
 Welcome to my GitHub contribution journey 🌊
 <p> <img src="https://img.shields.io/badge/GitHub-globbleofficial-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Pull%20Shark-🦈-00AEEF?style=for-the-badge"> </p>
 
-Code. Contribute. Collaborate. Repeat.
 
 </div>
 🌊 The Mission
@@ -27,47 +26,5 @@ This repository is part of my journey toward becoming a better software develope
 
 🦈 Shark Progress
 <div align="center">
-🦈 Stage	Status
-📝 Create a Pull Request	🔄 In Progress
-👀 Get a Review	🔄 In Progress
-✅ Get Merged	🔄 In Progress
-🦈 Pull Shark	🎯 Goal
-</div>
-How it works
-💡 Find an idea
-      ↓
-💻 Build something
-      ↓
-📤 Open a Pull Request
-      ↓
-👀 Get it reviewed
-      ↓
-✅ Get it merged
-      ↓
-🦈 SHARK MODE
-
-💻 What I Like Building
-
-🐍 Python projects
-
-🌐 Web applications
-
-⚛️ React / Next.js projects
-
-🤖 Machine Learning experiments
-
-📊 Data & analytics projects
-
-🔧 Developer tools
-
-🌍 Open-source contributions
-
-🏆 Contribution Mindset
-<div align="center">
-Small PRs → Real Contributions → Bigger Projects 🚀
-
-Every merged PR is another step forward.
-
-🦈 🌊 🦈 🌊 🦈
 
 
