@@ -70,14 +70,4 @@ Every merged PR is another step forward.
 
 🦈 🌊 🦈 🌊 🦈
 
-</div>
-📈 My GitHub Philosophy
 
-Don't just write code. Build, contribute, learn, and improve.
-
-Whether it's a small documentation fix or a complete feature,
-every contribution is part of the journey.
-
-<div align="center">
-🦈 Keep Swimming. Keep Building. Keep Contributing.
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:7B61FF&height=100&section=footer"> </div>
