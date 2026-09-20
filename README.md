@@ -13,3 +13,19 @@ Show your love for sharks with a fun badge that you can easily add to your READM
 🎨 Customizable
 
 💻 Works with GitHub Markdown
+
+
+🎨 Customization
+You can customize the badge to match your project by changing:
+
+Badge colors
+
+Shark icon
+
+Text
+
+Size
+
+Background
+
+Link destination
