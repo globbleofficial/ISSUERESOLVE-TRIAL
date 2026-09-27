@@ -1,5 +1,8 @@
 # ISSUERESOLVE-TRIAL
 
+globbleofficial-patch-7
+this is readme
+=======
  this is readme  
  and this is my new issue directory 
 git checkout -b feature/my-feature
@@ -28,3 +31,4 @@ This repository is part of my journey toward becoming a better software develope
 <div align="center">
 
 
+main
