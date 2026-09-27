@@ -29,6 +29,3 @@ This repository is part of my journey toward becoming a better software develope
 
 🦈 Shark Progress
 <div align="center">
-
-
-main
